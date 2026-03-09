@@ -1,0 +1,27 @@
+#include <string>
+using namespace std;
+struct student{
+	string Name;
+	float marks;
+};
+void display(student S1, student S2)
+{
+	cout<<"Enter name: ";
+	cin>>S1.Name;
+	cout<<"Enter Marks: ";
+	cin>>S1.marks;
+	cout<<"Enter name: ";
+	cin>>S2.Name;
+	cout<<"Enter Marks: ";
+	cin>>S2.marks;
+	
+	cout<<endl<<"Entered data"<<endl;
+	cout<<"Student1 Name: "<<S1.Name<<endl;
+	cout<<"Student2 Marks: "<<S1.marks<<endl;
+	cout<<"Student1 Name: "<<S2.Name<<endl;
+	cout<<"Student2 Marks: "<<S2.marks<<endl;
+}
+int main(){
+	student S1, S2;
+	display(S1, S2);
+}
