@@ -7,3 +7,4 @@ In this problem, we have to find out the area of a rectangle. This problem will 
 In this problem, I have used the concept of structures. If you want, you can also solve this without creating a structure. 
 
 The structure created in `rect` consists of two members, which are `length` and `width`. Then, by accessing those members of the structure, I have stored the user input in them, and I have created the formula of the area of a rectangle which gives the result area.
+[Click here for code](area-of-rectangle)
