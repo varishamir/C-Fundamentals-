@@ -12,4 +12,4 @@ The program prompts the user to input a number and then evaluates it using the l
 * **Logical AND (`&&`):** Ensures that **both** conditions must be true for the number to be considered divisible by both 5 and 11.
 
 ---
-[here is the link to code](number_divisible_by_both_5_and_11)
+[here is the link to code](number_divisible_by_5_and_11)
