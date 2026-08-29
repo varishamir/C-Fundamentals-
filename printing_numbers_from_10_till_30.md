@@ -9,4 +9,4 @@ This problem can be solved through a classic approach which is that we can solve
 When we have to display a large amount of numbers on the console screen, we can display them by using `cout` statements. There is also another way to do that which I have used in my code.
 
 And that method is a `for` loop. A `for` loop is a type of loop, which means that it can be used to repeat a statement for a defined number. of times. Here, I have used a `for` loop to print the numbers
-[Here is the link to code](printing_numbers_from_10_till_30)
+[Here is the link to code](printing_numbers_from_10_till_30.cpp)
