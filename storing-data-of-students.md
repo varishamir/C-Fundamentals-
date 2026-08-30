@@ -21,4 +21,4 @@ The program executes the following logical steps:
 3. **Iterative Evaluation:** A `for` loop runs through the array, checking each student's marks.
 4. **Threshold Check:** If a student's marks are $\ge 50$, their name and score are printed to the console as a passing grade.
 
-[here is the link to code](storing-data-of-students)
+[here is the link to code](storing-data-of-students.cpp)
