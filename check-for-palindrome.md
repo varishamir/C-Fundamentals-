@@ -8,4 +8,4 @@ And when input is `12321` and reverse of it is `12321` both are same than this i
 Now how I have solved this is that firstly I have took the input from user inputed it in `input` variable.
 Then I have found out the length of word or number, through length function. Then I have started comparing the digits letters, 1 from left `L` and 1 from right `R` and when each digit/letter from right and 
 left matches with each other it counts that and then if the counts of matches are equal to the length of the number or word then it is a Palindrome otherwise it is not.
-[Here is the link to code](check-for-palindrome)
+[Here is the link to code](check-for-palindrome.cpp)
