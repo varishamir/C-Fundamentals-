@@ -22,7 +22,7 @@ A lightweight C++ console application that takes two floating-point numbers from
 
 ---
 
-[Here is the link to code](division-of-numbers-function)
+[Here is the link to code](division-of-numbers-function.cpp)
 
 ## 💻 Sample Output
 
