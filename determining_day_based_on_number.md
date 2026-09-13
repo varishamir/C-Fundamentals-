@@ -43,4 +43,4 @@ To run this program, you need a C++ compiler installed on your system.
    g++ -o day_predictor main.cpp
 
 
-[here is the link to code](determining-day-based-on-number)
+[here is the link to code](determining-day-based-on-number.cpp)
