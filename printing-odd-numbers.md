@@ -12,4 +12,4 @@ As we know that odd numbers are those which are not divisible by 2. So, I have s
 Inside the loop I have used the condition that display the number if it is not divisible by 2, which means that the reminder of their division is not equal to zero.
 Which can also be written as `i%2!=0` here i is any number from 1 to 25 and `!=` is symbol of not equals to.
 
-[Here is the link to code](printing-odd-numbers)
+[Here is the link to code](printing-odd-numbers.cpp)
