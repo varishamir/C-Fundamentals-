@@ -11,4 +11,4 @@ There is a variable that I have create which is `marks` and it will store the ue
 First condition is if condition and another is else codition. You can learn further about this from internet as well.
 This if else is the standard two way selection structure in c++.
 
-[Here is the link to code](two_way_selection_code)
+[Here is the link to code](two_way_selection_code.cpp)
