@@ -13,4 +13,4 @@ The variables that I have created are `a` and `b`. Both `a` and `b` will store t
 
 Once the user is done with both of the inputs, then the program asks the user about what arithmetic operation they want to be performed on his/her input. At there the user can input one of these signs: `+`(Addition), `-`(Subtraction), `*`(Multiplication), or `/`(Division). After the user enters the sign it will be stored `arithmetic_sign` variable. And then through switch method it will search for the similar case, once the program finds it out, it goes into that case's body and then it performs that particular operation on the input and then it provides the output back to the program, which then gets displayed on users console screen.
 
-[Here is the link to code](arithmetic-operations-on-input)
+[Here is the link to code](arithmetic-operations-on-input.cpp)
