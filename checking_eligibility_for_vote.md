@@ -28,4 +28,4 @@ If this condition becomes false then the program will move towards `else` condit
 
 Thanks
 
-[Here is the link to code](checking_eligibility_for_vote)
+[Here is the link to code](checking_eligibility_for_vote.cpp)
